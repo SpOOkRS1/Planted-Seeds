@@ -13,3 +13,5 @@ compPlay = {
 if compPlayGen = 1:
   compPlayGen = compPlay('Rock')
 # display a message that decides if the user won or lost (or if there was a tie!)
+
+# Commento
